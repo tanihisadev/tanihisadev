@@ -1,16 +1,28 @@
-## Hi there 👋
+# hey, I'm Tanih 👋
 
-<!--
-**tanihisadev/tanihisadev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Lead web developer in the non-profit sector. I build things with PHP, Python, and increasingly Rust.
 
-Here are some ideas to get you started:
+## what I work on
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Large-scale Drupal multisites
+- Self-hosted infrastructure on Proxmox/TrueNAS
+- Systems tooling in Rust
+- Privacy and digital rights advocacy
+
+## what I'm building
+
+- [shurl](https://github.com/tanihisadev/shurl) — CLI URL shortener written in Rust
+- [shurl-gui](https://github.com/tanihisadev/shurl-gui) — Tauri desktop app wrapper for shurl
+- [Clippings](https://github.com/tanihisadev/Clippings) — self-hosted AI news digest that aggregates, summarises, and learns your reading preferences
+
+## currently
+
+- Trying to learn Rust properly — building CLI tools and Tauri apps
+- Making peace with AI in the engineering workflow — learning to use it well rather than fight it
+- Daily driving Linux (CachyOS + KDE 6)
+- Working toward German fluency
+
+## find me
+
+- 🌐 [blog.tanih.dev](https://blog.tanih.dev)
+- 📧 [tanihisadev@tanih.dev](mailto:tanihisadev@tanih.dev)
